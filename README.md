@@ -36,13 +36,13 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaizanTanwar&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=faizantanwar16&show_icons=true&theme=default&hide_border=true" height="150"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanTanwar&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizantanwar16&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FaizanTanwar&theme=flat&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=faizantanwar16&theme=flat&no-frame=true&column=6" />
 </p>
 
 ---
