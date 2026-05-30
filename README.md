@@ -14,11 +14,11 @@
 
 ### About
 
-- 💻 **MERN Stack** developer — React.js · Node.js · Express.js · MongoDB · Java  
-- 🔭 Passionate about building **fast, scalable** web applications with clean architecture  
-- 🧩 Love solving **DSA problems** and thinking about system design  
-- 🏆 **SIH 2025 National Finalist** (Hardware Edition) — Kottayam, Kerala  
-- 🎓 Computer Science student at **Bajaj Institute of Technology, Wardha**  
+- 💻 **MERN Stack** developer — React.js · Node.js · Express.js · MongoDB · Java
+- 🔭 Passionate about building **fast, scalable** web applications with clean architecture
+- 🧩 Love solving **DSA problems** and thinking about system design
+- 🏆 **SIH 2025 National Finalist** (Hardware Edition) — Kottayam, Kerala
+- 🎓 Computer Science student at **Bajaj Institute of Technology, Wardha**
 
 ---
 
@@ -36,9 +36,9 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizantanwar16&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=faizantanwar16&show_icons=true&theme=default&hide_border=true" height="150"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizantanwar16&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=faizantanwar16&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
@@ -52,9 +52,9 @@
 <p>
   <a href="mailto:faizantanwar1611@gmail.com">📬 faizantanwar1611@gmail.com</a>
   &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/FaizanTanwar">LinkedIn</a>
+  <a href="https://linkedin.com/in/faizan-tanwar">LinkedIn</a>
   &nbsp;|&nbsp;
-  <a href="https://github.com/FaizanTanwar">GitHub</a>
+  <a href="https://github.com/faizantanwar16">GitHub</a>
 </p>
 
 > *Currently open to Software Engineering Internships — feel free to reach out.*
