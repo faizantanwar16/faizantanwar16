@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faizantanwar16&theme=flat&no-frame=true&column=6" />
+  <img src="https://github-trophies.vercel.app/?username=faizantanwar16&theme=flat&no-frame=true&column=6" />
 </p>
 
 ---
