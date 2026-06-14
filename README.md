@@ -38,9 +38,8 @@
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=faizantanwar16&show_icons=true&theme=default&hide_border=true&rank_icon=github" height="130"/>
   &nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=faizantanwar16&layout=compact&theme=default&hide_border=true&langs_count=4" height="130"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=faizantanwar16&layout=compact&theme=default&hide_border=true&langs_count=4&hide=Jupyter%20Notebook,Python" height="130"/>
 </p>
-
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=faizantanwar16&theme=flat&no-frame=true&column=4&title=LongTimeUser,NewUser,Commits,Repositories" />
 </p>
